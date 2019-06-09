@@ -1,2 +1,2 @@
-# ImageRecognition
-Image Recognition using GoogleNet and ResNet
+# Image Classification
+Image Classification using GoogleNet and ResNet
